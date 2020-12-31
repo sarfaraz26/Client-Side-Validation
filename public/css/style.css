@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.login
+{
+    border: 2px solid maroon;
+    border-radius: 10px;
+}
+
+.register
+{
+    border: 2px solid gray;
+    border-radius: 10px;
+}
